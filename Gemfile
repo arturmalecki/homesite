@@ -10,3 +10,5 @@ gem 'jbuilder', '~> 1.2'
 gem 'sdoc',          group: :doc, require: false
 gem 'spring',        group: :development
 gem 'unicorn'
+gem 'ember-rails'
+gem 'ember-source', '1.5.1.1'
